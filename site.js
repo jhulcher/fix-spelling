@@ -1,9 +1,11 @@
 var bryanisms = [
   "Why don't fish radios exist?",
-  "Because you can't tuna fish."
+  "Because you can't tuna fish.",
+  "Why is the tucan always in debt?",
+  "Because he has a large bill."
 ];
 
-consoleText(bryanisms, 'text' ,['#E74C3C', '#26C281']);
+consoleText(bryanisms, 'text', ['#E74C3C', '#00B16A']);
 
 function consoleText(words, id, colors) {
   if (colors === undefined) colors = ['#fff'];
