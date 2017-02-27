@@ -1,7 +1,7 @@
 var bryanisms = [
   "Why don't fish radios exist?",
   "Because you can't tuna fish.",
-  "Why is the tucan always in debt?",
+  "Why is the toucan always in debt?",
   "Because he has a large bill."
 ];
 
